@@ -1,4 +1,4 @@
-package com.example.listviewcoban;
+package com.example.myprofile;
 
 import org.junit.Test;
 
